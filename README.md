@@ -5,4 +5,4 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />      
 </div>
   
-<img align="center" height="30" width="40" src="https://i.ibb.co/Xr8dVMNJ/kittio.jpg" />   
+<img align="center" height="30" width="40" src="https://ibb.co/67BpNLVs" />   
