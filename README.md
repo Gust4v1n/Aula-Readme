@@ -7,8 +7,8 @@
 <hr>
 <a href="https://www.example.com/" target="_blank">
     <div>
-          <img align="center" height="120" width="100" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-          <img align="center" height="120" width="90" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+          <img align="center" height="120" width="90" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+          <img align="center" height="120" width="100" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </div>
 </a>
 <hr>
