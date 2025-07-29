@@ -7,4 +7,3 @@
 <hr>
 <img align="center" height="240" width="180" src="https://i.ibb.co/Xr8dVMNJ/kittio.jpg" />   
 <hr>
-![Snake animation](https://github.com/Gust4v1n/Aula-Readme)
