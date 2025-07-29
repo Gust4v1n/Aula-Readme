@@ -6,7 +6,7 @@
 </div>
 <hr>
 <a href="https://www.example.com/" target="_blank">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" height="30" width="40" src="https://img.shields.io/badge/bitcoin-2F3134" />
 </a>
 <hr>
 <img align="center" height="240" width="180" src="https://i.ibb.co/Xr8dVMNJ/kittio.jpg" />   
