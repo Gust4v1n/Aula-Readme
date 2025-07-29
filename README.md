@@ -1,6 +1,1 @@
-# Aula-Readme
-pipipipopopupupu
-abububububububububbubu
-teste3
-testefinal
-testefinalrealmentefinal
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4v1n)](https://github.com/Gust4v1n/Aula-Readme)
