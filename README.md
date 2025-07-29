@@ -1,3 +1,4 @@
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gust4v1n&theme=shadow_red)](https://github.com/Gust4v1n/Aula-Readme)
 
 <div style="display: inline_block"><br>
@@ -7,8 +8,8 @@
 <hr>
 <a href="https://www.example.com/" target="_blank">
     <div>
-          <img align="center" height="120" width="90" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-          <img align="center" height="120" width="100" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+          <img align="center" height="45" width="75" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+          <img align="center" height="45" width="75" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </div>
 </a>
 <hr>
