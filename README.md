@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4v1n)](https://github.com/Gust4v1n/Aula-Readme)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gust4v1n)](https://github.com/Gust4v1n/Aula-Readme)
